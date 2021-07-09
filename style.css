@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 854px;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06d8b6c5-14d6-4604-8167-f9a6bde560f6/d4cj65b-82d46596-965f-40df-93d4-a1eae6a7570f.jpg/v1/fill/w_900,h_563,q_75,strp/pink_pokeball_wallpaper_by_joewithers_d4cj65b-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01NjMiLCJwYXRoIjoiXC9mXC8wNmQ4YjZjNS0xNGQ2LTQ2MDQtODE2Ny1mOWE2YmRlNTYwZjZcL2Q0Y2o2NWItODJkNDY1OTYtOTY1Zi00MGRmLTkzZDQtYTFlYWU2YTc1NzBmLmpwZyIsIndpZHRoIjoiPD05MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dZAEWBIqfI6y_keF6jjit7dmyQlLaPanJ8I0GKVMIaQ');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .calculadora {
+    width: 475px;
+    height:475px;
+    background-image: url('https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png');
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  h2 {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    top: 100px;
+    left: calc(50% - 70px);
+    width: 150px;
+    text-align:center;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
